@@ -1,0 +1,17 @@
+.link{
+  text-decoration: none;
+  color: #2196f3;
+}
+
+.link:hover{
+  color: #0d3c61;
+}
+
+.invalidLabel {
+  background: #fbdada;
+}
+
+.invalidText {
+  color: #ff4a4a;
+  margin-top: 0.5rem;
+}
